@@ -6,22 +6,6 @@ A comprehensive gear management system developed as a final year project.
 
 GearGuard is a modern web application designed to help users manage and track their gear efficiently. The project is built with a React frontend and will include a robust backend system.
 
-## 🏗️ Project Structure
-
-```
-GearGuard/
-├── Frontend/
-│   └── gearguard-frontend/          # React application
-│       ├── src/
-│       ├── public/
-│       ├── package.json
-│       └── ...
-├── Backend/                         # Backend application (to be added)
-├── docs/                           # Project documentation
-├── README.md
-└── ...
-```
-
 ## 🌿 Branching Strategy
 
 This project follows a structured branching strategy to ensure smooth collaboration between frontend and backend teams:
